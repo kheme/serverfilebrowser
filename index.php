@@ -23,7 +23,7 @@
         <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet" />
 
         <!-- Custom styles for this template -->
-        <link href="cover.css" rel="stylesheet" />
+        <link href="css/cover.css" rel="stylesheet" />
 
         <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
         <!--[if lt IE 9
