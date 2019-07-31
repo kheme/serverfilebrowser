@@ -20,7 +20,7 @@
 
         <!-- Custom styles for this template -->
         <link href="css/cover.css" rel="stylesheet" />
-        <link href="filemanager.css" rel="stylesheet" />
+        <link href="css/filemanager.css" rel="stylesheet" />
 
         <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
         <!--[if lt IE 9
